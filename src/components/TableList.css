@@ -1,0 +1,32 @@
+.table-list {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    width: 25%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .table-list h2 {
+    margin-bottom: 15px;
+    color: #333;
+  }
+  
+  .table-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .table-list li {
+    padding: 10px;
+    margin-bottom: 8px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .table-list li:hover {
+    background-color: #e0e0e0;
+  }
+  
